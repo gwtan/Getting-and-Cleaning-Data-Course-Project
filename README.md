@@ -2,7 +2,9 @@
 
 run_analysis.R obtains the dataset provided and does the following:
 
-- download and unzip dataset from given url into working directory reading datasets into R
+- download and unzip dataset from given url into working directory 
+
+- read datasets into R
 
 - label appropriate activity and subject columns and merging test and training datasets
 
